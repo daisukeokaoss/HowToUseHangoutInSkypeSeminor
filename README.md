@@ -1,0 +1,2 @@
+# HowToUseHangoutInSkypeSeminor
+スカゼミでどのようにハングアウトを使うべきかを記述します
