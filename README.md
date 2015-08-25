@@ -1,4 +1,4 @@
-# HowToUseHangoutInSkypeSeminor
+# スカゼミでどのようにハングアウトを使うか
 スカゼミでどのようにGoogleハングアウトを使うかを記述します
 
 SkypeはP2Pのサービスなのに対し、Googleハングアウトはクラウドベースのサービスなので、非常に使い勝手が良いです
